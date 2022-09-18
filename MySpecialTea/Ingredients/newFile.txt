@@ -1,1 +1,1 @@
-This is a new file after switching the branch - master edit
+This is a new file after switching the branch - new edit
